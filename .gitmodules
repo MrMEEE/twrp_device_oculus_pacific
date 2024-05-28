@@ -1,0 +1,3 @@
+[submodule "carliv_image_kitchen"]
+	path = carliv_image_kitchen
+	url = https://github.com/LowTension/carliv_image_kitchen.git
